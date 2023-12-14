@@ -1,4 +1,4 @@
-**# How it Works
+# How it Works
 
 The OpenCV PPT Controller utilizes computer vision to interpret hand gestures captured by a webcam, enabling seamless control of PowerPoint presentations. The system works by analyzing real-time video frames, identifying specific gestures, and triggering corresponding actions within the presentation.
 
